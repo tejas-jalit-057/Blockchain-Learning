@@ -1,0 +1,70 @@
+{
+    "contractName": "Function",
+    "abi": [],
+    "metadata": "{\"compiler\":{\"version\":\"0.8.34+commit.80d5c536\"},\"language\":\"Solidity\",\"output\":{\"abi\":[],\"devdoc\":{\"kind\":\"dev\",\"methods\":{},\"version\":1},\"userdoc\":{\"kind\":\"user\",\"methods\":{},\"version\":1}},\"settings\":{\"compilationTarget\":{\"c:/Users/user/Desktop/WORKING/Blockchain/Codes/function.sol\":\"Function\"},\"evmVersion\":\"osaka\",\"libraries\":{},\"metadata\":{\"bytecodeHash\":\"ipfs\"},\"optimizer\":{\"enabled\":true,\"runs\":200},\"remappings\":[],\"viaIR\":true},\"sources\":{\"c:/Users/user/Desktop/WORKING/Blockchain/Codes/function.sol\":{\"keccak256\":\"0x96e50449cd1991337babf043645cb0909a5a3768c7313554f58817c1a0172fe9\",\"license\":\"MIT\",\"urls\":[\"bzz-raw://4411ed2a49f30148e210cbd678609c10af8e0574c84a447f87c899e7c6e37d91\",\"dweb:/ipfs/QmW6LqC1HtPd7uwMgb9zyAhWRpXMiwq2K8vPLk4GEv4HCw\"]}},\"version\":1}",
+    "bytecode": "608080604052346013576039908160188239f35b5f80fdfe5f80fdfea2646970667358221220712f7c1b532abcbeed5550b3994fb1bffced6b5da6322d52ce77e535a5dc97b964736f6c63430008220033",
+    "deployedBytecode": "5f80fdfea2646970667358221220712f7c1b532abcbeed5550b3994fb1bffced6b5da6322d52ce77e535a5dc97b964736f6c63430008220033",
+    "sourceMap": "70:31:0:-:0;;;;;;;;;;;;;;;;;",
+    "deployedSourceMap": "70:31:0:-:0;;",
+    "sourcePath": "c:/Users/user/Desktop/WORKING/Blockchain/Codes/function.sol",
+    "compiler": {
+        "name": "solc",
+        "version": "0.8.34+commit.80d5c536"
+    },
+    "ast": {
+        "absolutePath": "c:/Users/user/Desktop/WORKING/Blockchain/Codes/function.sol",
+        "exportedSymbols": {
+            "Function": [
+                2
+            ]
+        },
+        "id": 3,
+        "license": "MIT",
+        "nodeType": "SourceUnit",
+        "nodes": [
+            {
+                "id": 1,
+                "literals": [
+                    "solidity",
+                    ">=",
+                    "0.5",
+                    ".0",
+                    "<",
+                    "0.9",
+                    ".0"
+                ],
+                "nodeType": "PragmaDirective",
+                "src": "33:33:0"
+            },
+            {
+                "abstract": false,
+                "baseContracts": [],
+                "canonicalName": "Function",
+                "contractDependencies": [],
+                "contractKind": "contract",
+                "fullyImplemented": true,
+                "id": 2,
+                "linearizedBaseContracts": [
+                    2
+                ],
+                "name": "Function",
+                "nameLocation": "79:8:0",
+                "nodeType": "ContractDefinition",
+                "nodes": [],
+                "scope": 3,
+                "src": "70:31:0",
+                "usedErrors": [],
+                "usedEvents": []
+            }
+        ],
+        "src": "33:68:0"
+    },
+    "functionHashes": {},
+    "gasEstimates": {
+        "creation": {
+            "codeDepositCost": "11400",
+            "executionCost": "69",
+            "totalCost": "11469"
+        }
+    }
+}

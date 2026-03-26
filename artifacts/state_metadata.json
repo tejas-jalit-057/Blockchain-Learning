@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "u1",
+				"outputs": [
+					{
+						"internalType": "enum state.user",
+						"name": "",
+						"type": "uint8"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Codes/enum.sol": "state"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Codes/enum.sol": {
+			"keccak256": "0x6b6ec109847fddd782303d076a250dbc3e6c712ce9b0f9fe161ac6378043c005",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://7b9ed262e1bd043c418a614d21f1c206650ad3aac98561ba4a1ac5b8b4dfe966",
+				"dweb:/ipfs/QmRQmrSm4wQGdjaY2E71S1bvC42f4ACtvJMw1Bb8zPeUux"
+			]
+		}
+	},
+	"version": 1
+}
